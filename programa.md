@@ -19,22 +19,16 @@ Fiecare activitate atinge unul sau mai multe domenii. De exemplu "**Programare, 
 - **Joc:** Hai să ne cunoaștem
 - **Joc:** Importanța instrucțiunilor
 - **Tabletă:** Importanța ordinii instrucțiunilor
-- **Tabletă, Programare:** Scratch JR - explorare
-- **Tabletă, Programare:** ScratchJR - Joc Fruit Ninja
+- **Calculator, Programare:** Scratch - explorare, planșă cursă animale, joc similar agar.io
+- **Calculator, Programare:** Parcurgem proiecte în Scratch și înțelegem secvențe de cod
 
 ### Lecția 2
-- **Joc:** Explorăm principiile pe care le studiem la lecție
-- **Offline:** Recapitulare - ordinea operațiilor
-- **Calculator, Programare:** Scratch - explorare, planșă cursă animale, joc similar agar.io
-- **Calculator, Programare:** Parcurgem proiecte complexe în Scratch și înțelegem secvențe de cod
-
-### Lecția 3
 - **Joc:** Explorăm principiile pe care le studiem la lecție
 - **Offline:** Recapitulare instrucțiuni - puzzle  cu instrucțiuni ce trebuie aranjate
 - **Calculator, Programare:** Discuție și exerciții cu variabile și liste
 - **Calculator, Programare:** Verificare variabile - test grilă și fill in the blanks
 
-### Lecția 4
+### Lecția 3
 - **Joc:** Explorăm principiile pe care le studiem la lecție
 - **Offline:** Recapitulare date/variabile
 - **Joc:** Luarea decizilor (zar, cărți de joc, bilețele)
@@ -42,25 +36,25 @@ Fiecare activitate atinge unul sau mai multe domenii. De exemplu "**Programare, 
 - **Calculator, Programare:** Controlarea personajului din taste
 - **Calculator, Programare:** Design joc personal și prezentarea jocului
 
-### Lecția 5
+### Lecția 4
 - **Joc:** Explorăm principiile pe care le studiem la lecție
 - **Offline:** Recapitulare condiții și variabile
 - **Calculator, Programare:** Condiții compuse ȘI/SAU, ecuații binar, exerciții cu condiții compuse și implementarea unui joc mai complex în Scratch
 
-### Lecția 6
+### Lecția 5
 - **Joc:** Explorăm principiile pe care le studiem la lecție
 - **Tabletă:** Joc  cu număr restricționat de mutări (obligativitatea folosirii buclelor)
 - **Offline:** Discuție bucle și tutorial folosire bucle în Scratch
 - **Calculator, Programare:** Exercițiu „forever”, „repeat until”, „repeat n”, trecerea „repeat n” to „repeat until”
 - **Offline:** Test verificare bucle
 
-### Lecția 7
+### Lecția 6
 - **Joc:** Explorăm principiile pe care le studiem la lecție
 - **Offline:** Recapitulare și Q&A
 - **Calculator, Programare:** Implementare joc complex în Scratch
 - **Calculator, Programare:** Discuție și începem implementarea unui proiect propriu în Scratch
 
-### Lecția 8
+### Lecția 7
 - **Joc:** Explorăm principiile pe care le studiem la lecție
 - **Calculator, Programare:** Finalizare proiecte și prezentarea lor
 - **Offline, Calculator, Programare:** Concluzii/Hour of Code
@@ -69,45 +63,45 @@ Fiecare activitate atinge unul sau mai multe domenii. De exemplu "**Programare, 
 
 ## Swift Playground
 
-### Lecția 9
+### Lecția 8
 - **Tabletă:** Introducere în aplicațiile *Swift Playground* și *Seesaw*
 - **Programare, Tabletă:** Gândește ca un calculator - comenzi și secvențe
 
-### Lecția 10
+### Lecția 9
 - **Joc:** Gândește ca un detectiv - debugging
 - **Programare, Tabletă:** Gândire eficientă - funcții și bucle FOR
 - **Programare, Tabletă:** Gândire eficientă - și mai multe funcții și bucle
 
-### Lecția 11
+### Lecția 10
 - **Offline:** Introducere - Jocul spionilor
 - **Offline:** Vânătoarea de comori
 - **Programare, Tabletă:** Gândire logică - condiții (IF, THEN, ELSE) și operatori logici (AND, OR, NOT)
 
-### Lecția 12
+### Lecția 11
 - **Offline:** Să dansăm!
 - **Offline:** "De-a v-ați ascunselea" cu bucle WHILE
 - **Programare, Tabletă:** Gândește de mai multe ori: bucle WHILE
 
-### Lecția 13
+### Lecția 12
 - **Offline:** Aceeași problemă, mai multe moduri de a o rezolva
 - **Programare, Tabletă:** Programare cu Algoritmi
 
-### Lecția 14
+### Lecția 13
 - **Offline:** Introducere în lumea variabilelor
 - **Offline:** Robotul de făcut știri
 - **Programare, Tabletă:** Programare cu variabile
 
-### Lecția 15
+### Lecția 14
 - **Offline:** Introducere: tipuri de variabile și inițializări
 - **Offline:** Fii un arhitect - concepte despre obiecte și proprietățile lor
 - **Programare, Tabletă:** Programare cu obiecte și proprietăți
 
-### Lecția 16
+### Lecția 15
 - **Offline:** Gândește specific - parametrii
 - **Offline:** Joc: "Siri says ..."
 - **Programare, Tabletă:** Programare cu parametrii
 
-### Lecția 17
+### Lecția 16
 - **Offline:** Recapitularea conceptelor de programare Swift
 - **Programare, Tabletă:** Proiect de final
 
@@ -115,16 +109,19 @@ Fiecare activitate atinge unul sau mai multe domenii. De exemplu "**Programare, 
 
 ## Limbajul de programare JavaScript
 
+### Lecția 17
 - **Offline:** Introducere - discuție despre limbajele de programare și paralela cu o limbă străină
 - **Offline:** Discuție JavaScript - utilizare în Web și prezentarea mediului de lucru
 - **Offline:** Prezentare generală JS - tutorial pornind de la JS for Cats
 
+### Lecția 18
 - **Joc:** Explorăm principiile pe care le studiem la lecție
 - **Offline:** Proiecte intereseante în JS
 - **Calculator, Programare:** Prezentare reguli de bază de sintaxă
 - **Calculator, Programare:** Utilizarea șirurilor de caractere - Introducere text, lungime, indexOf, folosirea ghilimelelor, caractere speciale, diferență 5 ”5”, funcții de tipul toLower()
 - **Calculator, Programare:** Utilizarea „confirm” și „prompt”
 
+### Lecția 19
 - **Joc:** Explorăm principiile pe care le studiem la lecție
 - **Calculator, Programare:** Ce sunt variabilele, pentru ce le folosim, cum le putem numi, cum le afiăm?
 - **Calculator, Programare:** Testarea greșelilor comune în utilizarea variabilelor
@@ -132,27 +129,32 @@ Fiecare activitate atinge unul sau mai multe domenii. De exemplu "**Programare, 
 - **Calculator, Programare:** Implementarea interschimbării variabilelor
 - **Calculator, Programare:** Tipuri de date: string, number, boolean
 
+### Lecția 20
 - **Joc:** Explorăm principiile pe care le studiem la lecție
 - **Offline:** Recapitulare tipuri de date: joc identificare tip
 - **Calculator, Programare:** Condiții: if statement
 - **Calculator, Programare:** Diferența =, ==, ===
 - **Offline:** Discuție modulo, /, %
 
+### Lecția 21
 - **Joc:** Explorăm principiile pe care le studiem la lecție
 - **Offline:** Discuție funcții - paralelă acțiuni/activități
 - **Calculator, Programare:** Implementare funcții simple
 - **Offline:** Discuție proprietăți obiecte diferite
 - **Offline:** Tutorial obiecte - proprietăți
 
+### Lecția 22
 - **Joc:** Explorăm principiile pe care le studiem la lecție
 - **Offline:** Recapitulare funcții și obiecte
 - **Calculator, Programare:** Utilizarea funcțiilor și obiectelor
 - **Calculator, Programare:** Vectori: declarare, inițializare. parcurgere
 
+### Lecția 23
 - **Joc:** Explorăm principiile pe care le studiem la lecție
 - **Calculator:** Integrare JS în programarea Web
 - **Offline, Calculator, Programare:** Discuție + începerea implementării unui proiect propriu
 
+### Lecția 24
 - **Joc:** Explorăm principiile pe care le studiem la lecție
 - **Offline:** Recapitulare și verificarea cunoștințelor
 - **Calculator:** Prezentarea proiectelor
@@ -161,12 +163,14 @@ Fiecare activitate atinge unul sau mai multe domenii. De exemplu "**Programare, 
 
 ## Limbajul de programare C
 
+### Lecția 25
 - **Offline:** Importanța C/C++ în programare
 - **Calculator:** Familiarizarea cu IDE
 - **Calculator:** Structura unui program
 - **Calculator:** Discuție tipuri de date în C. Atribuire
 - **Calculator:** Discuție afișare la consolă, citire de la tastatură
 
+### Lecția 26
 - **Joc:** Explorăm principiile pe care le studiem la lecție
 - **Calculator:** Recapitulare structura unui program: puzzle instrucțiuni
 - **Calculator:** Recapitulare modulo, %, /. Diferența div, mod
@@ -174,12 +178,14 @@ Fiecare activitate atinge unul sau mai multe domenii. De exemplu "**Programare, 
 - **Calculator, Programare:** Interschimbarea a două variabile
 - **Calculator:** Discuție variabile booleene. Pregătire condiții
 
+### Lecția 27
 - **Joc:** Explorăm principiile pe care le studiem la lecție
 - **Calculator, Programare:** Sintaxa condiție ”if”
 - **Calculator, Programare:** Exerciții condiții ”if”
 - **Calculator, Programare:** Folosire biblioteci - random
 - **Calculator, Programare:** Implementare joc - găsește fantoma
 
+### Lecția 28
 - **Joc:** Explorăm principiile pe care le studiem la lecție
 - **Joc:** Joc condiții offline
 - **Calculator, Programare:** Sintaxă „switch”
@@ -187,18 +193,21 @@ Fiecare activitate atinge unul sau mai multe domenii. De exemplu "**Programare, 
 - **Calculator:** Bad practices - posibile greșeli, cazuri speciale
 - **Joc:** Verificarea cunoștințelor
 
+### Lecția 29
 - **Joc:** Explorăm principiile pe care le studiem la lecție
 - **Joc:** Discuție bucle - joc offline
 - **Calculator, Programare:** Sintaxă ”while”
 - **Calculator, Programare:** Exerciții buclă „while”
 - **Calculator, Programare:** Implementare joc - ghicește numărul
 
+### Lecția 30
 - **Joc:** Explorăm principiile pe care le studiem la lecție
 - **Calculator, Programare:** Utilizarea unui contor intr-o bucla ”while”
 - **Calculator, Programare:** Sintaxa „for”
 - **Calculator, Programare:** Exerciții „for”
 - **Calculator, Programare:** Implementare joc - combinarea while/for
 
+### Lecția 31
 - **Joc:** Explorăm principiile pe care le studiem la lecție
 - **Offline:** Recapitulare „for”
 - **Offline:** Discuție vectori
@@ -206,6 +215,7 @@ Fiecare activitate atinge unul sau mai multe domenii. De exemplu "**Programare, 
 - **Calculator, Programare:** Exercițiu vectori
 - **Calculator, Programare:** Rezolvare problemă individuală
 
+### Lecția 32
 - **Joc:** Explorăm principiile pe care le studiem la lecție
 - **Calculator, Programare:** Recapitulare finală - parcurgere Scratch, Swift, JS, C
 - **Offline:** Festivitate încheiere
