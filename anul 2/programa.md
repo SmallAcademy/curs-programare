@@ -36,5 +36,5 @@ Cursul de programare este destinat copiilor cu vârsta între 9 și 14 ani și �
   - Funcțiile unei baze de date
   - Stocarea datelor, managementul datelor
   - Comunicarea cu baza de date
-- Chatbot - partea 2
+- Chatbot
 - Aplicații complexe ce au un flux mare de date
