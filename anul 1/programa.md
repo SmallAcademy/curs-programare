@@ -2,7 +2,7 @@
 
     # Vârsta: 9-14 ani
     # Durată ședință: 120 minute (din care 10 minute pauză)
-    # Număr ședințe: 28
+    # Număr ședințe: 31
 
 ### Introducere
 
