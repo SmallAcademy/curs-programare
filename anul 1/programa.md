@@ -1,4 +1,4 @@
-# Curs programare 1
+# Curs programare nivel 1
 
     # Vârsta: 8-10 ani
     # Durată ședință: 90 minute (din care 10 minute pauză)
