@@ -1,8 +1,8 @@
 # Curs de programare nivel 2
 
     # Vârsta: 11-14 ani
-    # Durată ședință: 120 minute (din care 10 minute pauză)
-    # Număr ședințe: 31
+    # Durată ședință: 90 minute (din care 10 minute pauză)
+    # Număr ședințe: 31+
 
 ### Introducere
 
@@ -17,6 +17,6 @@ Având fundația deja construită prin cursul de Programare 1 sau prin explorare
 
 Astfel, plecând de la cea mai evidentă și mai tangibilă aplicabilitate a programării, site-urile web, tot cursul se concentrează pe cristalizarea celor trei tehnologii necesare - HTML, CSS și JavaScript. Astfel, copiii ajung să înțeleagă natura duală a aplicațiilor și jocurilor pe care le accesează în viața de zi cu zi - structură și interacțiune.
 
-De asemenea, construind pe competențele de utilizare a calculatorului din anul anterior, vor înțelege câteva dintre noțiunile familiare, dar “obscure” pe care le folosesc atât de des - bitul, byte-ul, RAM, procesorul, internetul etc, iar noțiunile explorate în cursul de Robotică 1 ar accelera și ar integra înțelegerea acestora în universul STEM (Știință, Tehnologie, Inginerie, Matematică).
+De asemenea, construind pe competențele de utilizare a calculatorului din anul anterior, vor înțelege câteva dintre noțiunile familiare, dar "obscure" pe care le folosesc atât de des - bitul, byte-ul, RAM, procesorul, internetul etc, iar noțiunile explorate în cursul de Robotică 1 ar accelera și ar integra înțelegerea acestora în universul STEM (Știință, Tehnologie, Inginerie, Matematică).
 
 Cursul este gândit ca o serie de proiecte - unele individuale, altele de grup - de dificultate și durată de timp crescânde, reflectând modul în care se creează programele în viața reală. Copiii vor ajunge să-și creeze propria pagină web, iar în echipe vor realiza un site cu mai multe pagini, familiarizându-se cu lucrul structurat în echipă.
